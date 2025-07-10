@@ -1,0 +1,20 @@
+body{
+    
+    background-color:darkgray;
+    margin-top: 20px;
+    border-style:dotted;
+    border-radius: 20px;
+    
+    border: color #d0d0d0;
+    padding-left: 15px;   
+}
+.Informacion{
+    border-style: dotted;
+    border-color:black;
+    border-radius: 10px;
+}
+.Contacto{
+    border-style: dotted;
+    border-color:black;
+    border-radius: 10px;
+}
